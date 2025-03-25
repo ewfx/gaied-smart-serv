@@ -205,7 +205,7 @@ def send_acknowledgment_email(request_type, sub_request_type, sender_email, subj
         msg = MIMEMultipart()
         msg["From"] = EMAIL_USER
         msg["To"] = sender_email
-        msg["Subject"] = f"Acknowledgment: {subject}"
+        msg["Subject"] = f"Acknowledgment: {subject} - {unique_id}"
 
         body = f"""
 Dear customer,
@@ -243,7 +243,6 @@ if __name__ == "__main__":
         email_data = extract_email_content(msg)
         attachments, extracted_text, eml_messages = extract_attachments(msg)
         combined_text = email_data["body"] + "\n" + extracted_text
-
         print("Email:", email_data)
         classification = classify_email_with_gemini(combined_text, email_data)
         print(classification)
