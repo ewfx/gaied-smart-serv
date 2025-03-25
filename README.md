@@ -31,10 +31,13 @@ This initiative aims to address these challenges by leveraging Generative AI to 
 
 **Email Classification:** 
 Utilizes Generative AI to categorize emails into predefined request types and subtypes, accurately interpreting sender intent.
+
 **Contextual Data Extraction:** 
 Extracts configurable fields from both email bodies and attachments like PDFs and images by leveraging advanced AI-driven text interpretation techniques (Gemini Gen AI model)
+
 **Automated Service Request Creation:** 
 Transfers extracted information into service requests, streamlining the process for easy tracking and management.
+
 **Efficiency and Accuracy:** 
 Reduces manual intervention, enhances data processing accuracy, and accelerates turnaround times.
 
