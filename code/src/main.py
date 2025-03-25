@@ -25,7 +25,7 @@ EMAIL_USER = "technologyhackathon5@gmail.com"
 EMAIL_PASS = "jxjhckdkklfbrfkk"
 IMAP_SERVER = "imap.gmail.com"
 IMAP_FOLDER = "INBOX"
-GEMINI_API_KEY = "AIzaSyAqWKq49Qkyb0B94UOHY24GLEa9_S5s0LY"
+GEMINI_API_KEY = "***" # Update Gemini API Key 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
