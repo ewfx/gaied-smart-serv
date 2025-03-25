@@ -21,7 +21,6 @@ The solution must minimize manual interventions by leveraging freely available t
 ## 🎥 Demo
 Video Recording => https://www.loom.com/share/8acce5d9e5194bb0bd1fe4ad665b1329
 
-![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
 The inspiration behind this project stems from the challenges organizations face in managing large volumes of email-based service requests. Manually classifying emails, extracting relevant information, and routing them to the right teams can be time-consuming, error-prone, and inefficient.
@@ -30,22 +29,31 @@ This initiative aims to address these challenges by leveraging Generative AI to 
 
 ## ⚙️ What It Does
 
-	1. Email Classification: Utilizes Generative AI to categorize emails into predefined request types and subtypes, accurately interpreting sender intent.
-	2. Contextual Data Extraction: Extracts configurable fields from both email bodies and attachments like PDFs and images by leveraging advanced AI-driven text interpretation techniques (Gemini Gen AI model)
-	3. Automated Service Request Creation: Transfers extracted information into service requests, streamlining the process for easy tracking and management.
-   4. Efficiency and Accuracy: Reduces manual intervention, enhances data processing accuracy, and accelerates turnaround times.
+**Email Classification:** 
+Utilizes Generative AI to categorize emails into predefined request types and subtypes, accurately interpreting sender intent.
+**Contextual Data Extraction:** 
+Extracts configurable fields from both email bodies and attachments like PDFs and images by leveraging advanced AI-driven text interpretation techniques (Gemini Gen AI model)
+**Automated Service Request Creation:** 
+Transfers extracted information into service requests, streamlining the process for easy tracking and management.
+**Efficiency and Accuracy:** 
+Reduces manual intervention, enhances data processing accuracy, and accelerates turnaround times.
 
 ## 🛠️ How We Built It
 
-**Generative AI Models:** Advanced AI model (Google Gemini AI) for email classification, data extraction, and contextual text analysis. 
+**Generative AI Models:** 
+Advanced AI model (Google Gemini AI) for email classification, data extraction, and contextual text analysis. 
 
-**Programming Language:** Python, for implementing logic and integrating tools.
+**Programming Language:** 
+Python, for implementing logic and integrating tools.
 
-**Text Processing Tools:** Libraries like pytesseract, pypdf2, and BytesIO for extracting and processing text from email bodies and attachments.
+**Text Processing Tools:** 
+Libraries like pytesseract, pypdf2, and BytesIO for extracting and processing text from email bodies and attachments.
 
-**Email Handling:** Gmail IMAP Server for accessing and fetching unread emails.
+**Email Handling:** 
+Gmail IMAP Server for accessing and fetching unread emails.
 
-**Data Management:** Service requests are created in Google Sheets to effectively record and organize extracted data.
+**Data Management:** 
+Service requests are created in Google Sheets to effectively record and organize extracted data.
 
 
 ## 🚧 Challenges We Faced
