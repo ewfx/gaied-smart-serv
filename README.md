@@ -37,11 +37,12 @@ This initiative aims to address these challenges by leveraging Generative AI to 
 
 ## 🛠️ How We Built It
 
-	1. Generative AI Models: Advanced AI model (Google Gemini AI) for email classification, data extraction, and contextual text analysis.
-	2. Programming Language: Python, for implementing logic and integrating tools.
-	3. Text Processing Tools: Libraries like pytesseract, pypdf2, and BytesIO for extracting and processing text from email bodies and attachments.
-	4. Email Handling: Gmail IMAP Server for accessing and fetching unread emails.
-   5. Data Management: Service requests are created in Google Sheets to effectively record and organize extracted data.
+**Generative AI Models:** Advanced AI model (Google Gemini AI) for email classification, data extraction, and contextual text analysis.
+**Programming Language:** Python, for implementing logic and integrating tools.
+**Text Processing Tools:** Libraries like pytesseract, pypdf2, and BytesIO for extracting and processing text from email bodies and attachments.
+**Email Handling:** Gmail IMAP Server for accessing and fetching unread emails.
+**Data Management:** Service requests are created in Google Sheets to effectively record and organize extracted data.
+
 
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.
