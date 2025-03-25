@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Automated Service Request System Using Gemini AI
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
