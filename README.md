@@ -6,7 +6,6 @@
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
-- [Challenges We Faced](#challenges-we-faced)
 - [How to Run](#how-to-run)
 - [Tech Stack](#tech-stack)
 - [Team](#team)
@@ -59,29 +58,19 @@ Gmail IMAP Server for accessing and fetching unread emails.
 Service requests are created in Google Sheets to effectively record and organize extracted data.
 
 
-## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
-
 ## 🏃 How to Run
-1. Clone the repository  
-   ```sh
-   git clone https://github.com/your-repo.git
-   ```
-2. Install dependencies  
-   ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
-   ```
-3. Run the project  
-   ```sh
-   npm start  # or python app.py
-   ```
+Code is provided under https://github.com/ewfx/gaied-smart-serv/blob/main/code/src/main.py
+User need to Run this code by installing required python libraries and also need to provide Gemini API Key for integrating Gemini GenAI.
+This will create a service request record in google sheets (Ex: https://docs.google.com/spreadsheets/d/1yLsOlV0Z3_JXjsRcAlSisIycs1MFJ-xzI8fUa2Xd0eI/edit?gid=638029294#gid=638029294) and also send acknowledgement email to the sender.
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Backend: Flask API
+- 🔹 Other: GEMINI API
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+Tribhuvan Kumar
+Rahul
+Anand
+Abinash
+
+
