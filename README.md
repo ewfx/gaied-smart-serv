@@ -60,7 +60,9 @@ Service requests are created in Google Sheets to effectively record and organize
 
 ## 🏃 How to Run
 Code is provided under https://github.com/ewfx/gaied-smart-serv/blob/main/code/src/main.py
+
 User need to Run this code by installing required python libraries and also need to provide Gemini API Key for integrating Gemini GenAI.
+
 This will create a service request record in google sheets (Ex: https://docs.google.com/spreadsheets/d/1yLsOlV0Z3_JXjsRcAlSisIycs1MFJ-xzI8fUa2Xd0eI/edit?gid=638029294#gid=638029294) and also send acknowledgement email to the sender.
 
 ## 🏗️ Tech Stack
