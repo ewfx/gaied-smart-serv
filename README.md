@@ -17,9 +17,7 @@
 A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+Video Recording => https://www.loom.com/share/8acce5d9e5194bb0bd1fe4ad665b1329
 
 ![Screenshot 1](link-to-image)
 
