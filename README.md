@@ -19,7 +19,7 @@ The solution must minimize manual interventions by leveraging freely available t
 
 ## 🎥 Demo
 Video Recording => https://www.loom.com/share/8acce5d9e5194bb0bd1fe4ad665b1329
-
+MP4 file available at location => artifacts/demo/GenAI based email classification .mp4
 
 
 ## 💡 Inspiration
