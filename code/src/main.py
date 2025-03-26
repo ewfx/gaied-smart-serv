@@ -22,7 +22,7 @@ from email.mime.multipart import MIMEMultipart
 
 # Email credentials (use environment variables for security)
 EMAIL_USER = "technologyhackathon5@gmail.com"
-EMAIL_PASS = "jxjhckdkklfbrfkk"
+EMAIL_PASS = "****" #Give app pass key
 IMAP_SERVER = "imap.gmail.com"
 IMAP_FOLDER = "INBOX"
 GEMINI_API_KEY = "***" # Update Gemini API Key 
