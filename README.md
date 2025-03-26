@@ -21,6 +21,7 @@ The solution must minimize manual interventions by leveraging freely available t
 Video Recording => https://www.loom.com/share/8acce5d9e5194bb0bd1fe4ad665b1329
 
 
+
 ## 💡 Inspiration
 The inspiration behind this project stems from the challenges organizations face in managing large volumes of email-based service requests. Manually classifying emails, extracting relevant information, and routing them to the right teams can be time-consuming, error-prone, and inefficient.
 
@@ -70,9 +71,12 @@ This will create a service request record in google sheets (Ex: https://docs.goo
 - 🔹 Other: GEMINI API
 
 ## 👥 Team
-Tribhuvan Kumar
-Rahul
-Anand
-Abinash
+Tribhuvan Kumar Bobbichetty
+
+Rahul Reddishetty
+
+Anand Myadam
+
+Abinash Pujhari
 
 
